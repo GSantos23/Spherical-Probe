@@ -12,7 +12,7 @@ Construction of a dual rotor spherical drone, using 3D printers and development 
 ---------------------------------------
 ## Video:
 
-[Fly Test](https://www.youtube.com/watch?v=FRNVgsSJsD8)
+[Implementation](https://www.youtube.com/watch?v=rrGH1Oh_beM)
 
 [Robot Animation](https://www.youtube.com/watch?v=5_Zqnc6qKws)
 
