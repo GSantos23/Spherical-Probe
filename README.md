@@ -12,6 +12,6 @@ Construction of a dual rotor spherical drone, using 3D printers and development 
   * 32K RAM
   * 80Mhz
 
-More information(https://store.digilentinc.com/chipkit-uc32-basic-microcontroller-board-with-uno-r3-headers-retired/)
+[More information](https://store.digilentinc.com/chipkit-uc32-basic-microcontroller-board-with-uno-r3-headers-retired/)
 ----------------------------------------
 
